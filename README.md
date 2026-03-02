@@ -3,7 +3,7 @@
 A Proof of Concept for a Virtual Try On features for the Skims App to showcase my programming experience as well as build a cool idea I had for the app.
 
 ## App Preview
-<video src="app_preview.mp4" controls muted autoplay playsinline loop></video>
+![skims virtual try on demo](app_preview.gif)
 
 
 ## Getting Started
