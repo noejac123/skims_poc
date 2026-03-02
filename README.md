@@ -2,6 +2,9 @@
 
 A Proof of Concept for a Virtual Try On features for the Skims App to showcase my programming experience as well as build a cool idea I had for the app.
 
+## App Preview
+<video src="./App%20Preview.mp4" controls="controls" style="max-width: 100%;"></video>
+
 ## Getting Started
 
 To run this application, you need to have the following:
@@ -31,3 +34,5 @@ fvm flutter run
 - Safety - Gemini API safety settings banning probably more than half of the images from being generated.
 - Cost - With nano-banana 2 the cost is about 7 cents per image. 
 - Quality - The quality of the images is very dependent on the quality of the user input image. 
+- Load Time - It takes about 20+ seconds to generate an image.
+
